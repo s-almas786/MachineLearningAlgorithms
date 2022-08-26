@@ -1,0 +1,134 @@
+Server
+Node
+History about why we needed node
+What is node (architecture)
+Installation and verify
+Manage versions
+Hello world
+What’s happening
+Node package manager
+What and why
+Dissecting package.json
+Going into node_modules
+Working with npm packages
+Node built-in modules
+os
+events
+fs
+stream
+http
+Server frameworks
+Comparison between server frameworks
+Hello world - Express
+Hello world - Koa
+Hello world - Fastify
+HTTP
+OSI Model
+How Internet works
+HTTP messages
+HTTP Request Types / VERBS
+HTTP Clients (Postman, Insomnia, VSCode, Terminal)
+HTTP Get
+HTTP Post
+HTTP Put
+HTTP Delete
+HTTPS
+MongoDB
+RDBMS vs NOSQL
+Why MongoDB
+How it works
+Install
+Working with Database
+Working with Collection
+Working with Schema
+Working with Index
+CRUD from mongo shell
+MongoDB Atlas
+Express API CRUD
+Setup Express application
+Setup routes
+Perform CRUD using POSTMAN
+Create model
+Create service
+Use validation
+Testing
+Unit test
+Integration test
+Client
+Client side JavaScript
+How browsers work
+DOM rendering
+Console, Network, Application tabs
+Libraries and Frameworks
+React
+Why we needed react
+What is React
+How react works
+Thinking in react
+Create react app
+Hello world
+What’s happening in here
+Create a calculator
+Working with data
+Local state
+Passing data via props
+React concepts
+hooks
+context
+refs
+custom hooks
+React router dom
+Create routes and pages
+Create menu and page containers
+Hooks
+Router
+Link
+Form and List
+Create a form from scratch
+Create form using react-hook-form
+Create a list page from scratch
+Save data to server
+Search data ono list page
+Edit data
+Testing
+Snapshot testing
+Storybook testing
+Unit testing (Jest)
+MUI
+Material UI
+Create pages
+Use templates
+Real project: Inventory system
+Project management
+Requirement analysis
+Architecture analysis
+Project breakdown
+Release plan
+Phase 1: Architecture and User management
+Architecture
+Create base architecture
+Create auth codes properly
+Add seed data
+Modular architecture
+Authentication
+JWT token
+Authentication in server
+Authenticationin client
+Add signin signout feature
+Authorization
+add middleware in server
+add authorization mechanism in client
+Phase 2: Feature implementation
+Modules
+Product
+Customer
+Order
+Reporting
+add recharts
+add cron
+design dashboard
+Deployment
+aspects of deployment
+deploy to virtual machine
+deploy to digital ocean apps
+Cloud deployment (theory only)
